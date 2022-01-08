@@ -25,7 +25,7 @@ title: DeCew Falls In the Long 19th Century
 tagline: DeCew Falls, a historical site!
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A collection containing several important images and docuements pertaining to the area of DeCew Falls during the long 19th Century.
+description: A collection containing several important images and documents pertaining to the area of DeCew Falls during the long 19th Century.
 author: Joshua Harwood
 
 ##########
@@ -33,7 +33,7 @@ author: Joshua Harwood
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: DeCew_Falls_Exhibition_Metadata.csv
+metadata: DeCew_Falls_Exhibition_Metadata
 
 ##########
 # GOOGLE SERVICES [optional!]
